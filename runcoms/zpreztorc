@@ -40,6 +40,7 @@ zstyle ':prezto:load' pmodule \
   'jump' \
   'syntax-highlighting' \
   'autosuggestions' \
+  'gpg' \
 
 #
 # Autosuggestions
